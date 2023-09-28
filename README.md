@@ -9,18 +9,15 @@ I'm Programmer that actively from 2022 and very interest to Mobile Android , Web
 
 <img align="right" alt="jett" width="350" src="https://media2.giphy.com/media/M7wF44ko38Qa6GoNGb/giphy.gif?cid=6c09b952pdd2nfldqzeb6fc1n72b4anf29of3kgp8y1yzd4c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Android Mobile development**
-
-- 💬 Ask me about **Anything interest**
-
-- 📫 How to reach me DM
-
-- ⚡ Fun fact **playing Genshin and Valorant**
+ I’m currently learning **Android Mobile development**
 
 <h3 align="left">My Social media :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hilmy sukma nurmakarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilmy sukma nurmakarim" height="30" width="40" /></a>
-<a href="https://instagram.com/hilmysnk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilmysnk_" height="30" width="40" /></a>
+
+<a href="https://instagram.com/hilmysnk_/" rel="nofollow"><img src="https://camo.githubusercontent.com/acd4a3f23f9698ea8d9b695bc240f44dbabc224dcaadff250561704e20fe0233/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4331333538343f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d433133353834266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f636f64657077722f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&amp;labelColor=C13584&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/codepwr/" style="max-width: 100%;"></a>
+<a href="mailto:hilmysukma12@gmail.com"><img src="https://camo.githubusercontent.com/ac8d5c5cdbc05628c1fc0a80754d18d7ab51cc37d4bd68a77eb84da6f869380c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a726562656363616d616e7a6940676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:rebeccamanzi@gmail.com" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/hilmy-sukma-nurmakarim-a2960a273" rel="nofollow"><img src="https://camo.githubusercontent.com/686f5c011efd9f13a308766663ac29996b1c48392bd707f058a1e353de01bc6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f726562656363616d616e7a692f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rebeccamanzi/" style="max-width: 100%;"></a>
+
 <a href="https://discord.gg/nihtlouw#2182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nihtlouw#2182" height="30" width="40" /></a>
 </p>
 
