@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Hilmy Sukma</h1>
 <h3 align="center">Passionate Programmer Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihtlouw&label=Profile%20views&color=0e75b6&style=flat" alt="nihtlouw" /> </p>
-
 I'm Programmer that actively from 2022 and very interest to Mobile Android , Website or dekstop App development. Still learning a lot of programming language such as c++, python, java, kotlin, and anything else.
 
 <img align="right" alt="jett" width="350" src="https://media2.giphy.com/media/M7wF44ko38Qa6GoNGb/giphy.gif?cid=6c09b952pdd2nfldqzeb6fc1n72b4anf29of3kgp8y1yzd4c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
