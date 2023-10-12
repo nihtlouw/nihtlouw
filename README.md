@@ -1,13 +1,19 @@
 # nihtlouw-profile
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
-<h1 align="center">Hi 👋, I'm Hilmy Sukma</h1>
-<h3 align="center">Passionate Programmer Developer</h3>
+<h1 align="center">Passionate Programmer Developer</h1>
+<h3 align="center"></h3>
+<p dir="auto"><img src="https://img.shields.io/github/followers/nihtlouw?label=Profile%20views&style=social" alt="Profile Views"></p>
+<p dir="auto"><img src="https://img.shields.io/github/stars/nihtlouw/REPOSITORY?style=social" alt="GitHub Stars"></p>
+
 
 I'm Programmer that actively from 2022 and very interest to Mobile Android , Website or dekstop App development. Still learning a lot of programming language such as c++, python, java, kotlin, and anything else.
 
 <img align="right" alt="jett" width="350" src="https://media2.giphy.com/media/M7wF44ko38Qa6GoNGb/giphy.gif?cid=6c09b952pdd2nfldqzeb6fc1n72b4anf29of3kgp8y1yzd4c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
  I’m currently learning **Android Mobile development**
+
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+ 
 
 <h3 align="left">My Social media :</h3>
 <p align="left">
