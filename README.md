@@ -22,11 +22,12 @@ I'm Programmer that actively from 2022 and very interest to Mobile Android , Web
 <a href="https://linkedin.com/in/hilmy-sukma-nurmakarim-a2960a273" rel="nofollow"><img src="https://camo.githubusercontent.com/686f5c011efd9f13a308766663ac29996b1c48392bd707f058a1e353de01bc6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f726562656363616d616e7a692f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rebeccamanzi/" style="max-width: 100%;"></a> [![Listening to Spotify](https://img.shields.io/badge/Listening%20to-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/31qzip4wko45yznpkk3srfcnap5u?si=AmHDBFRiSUuZtkmNKc2uww&utm_source=copy-link)
 
 
-<p align="left" dir="auto">
-<a href="https://github.com/nihtlouw">
-  <img height="180em" src="https://camo.githubusercontent.com/36f1325278c41680ecc754d93e7d36d1a139c921f3a4b3ab0ffed01aabd3c34f/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64696d61736d6473266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
-</a>
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nihtlouw&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;">
+  </a>
 </p>
+
 
 </p>
 
