@@ -2,7 +2,7 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Passionate Programmer Developer</h1>
 <h3 align="center"></h3>
-<p dir="auto"><img src="https://img.shields.io/badge/Profile%20Views-362-blue" alt="Profile Views"></p> 
+<p dir="auto"><img src="https://img.shields.io/badge/Profile%20Views-1609-blue" alt="Profile Views"></p> 
 
 I'm Programmer that actively from 2022 and very interest to Mobile Android , Website or dekstop App development. Still learning a lot of programming language such as c++, python, java, kotlin, and anything else.
 
