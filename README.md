@@ -1,12 +1,12 @@
 # nihtlouw-profile
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
-<h1 align="center">Passionate Programmer Developer</h1>
+<h1 align="center">Welcome to my Developer journey</h1>
 <h3 align="center"></h3>
 <p dir="auto"><img src="https://img.shields.io/badge/Profile%20Views-1609-blue" alt="Profile Views"></p> 
 
 I'm Programmer that actively from 2022 and very interest to Mobile Android , Website or dekstop App development. Still learning a lot of programming language such as c++, python, java, kotlin, and anything else.
 
-<img align="right" alt="jett" width="350" src="https://media2.giphy.com/media/M7wF44ko38Qa6GoNGb/giphy.gif?cid=6c09b952pdd2nfldqzeb6fc1n72b4anf29of3kgp8y1yzd4c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="right" alt="jett" width="350" src="https://cdn.dribbble.com/users/416610/screenshots/2391640/tableillo.png">
 
  I’m currently learning **Android Mobile development**
 
